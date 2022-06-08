@@ -1,6 +1,6 @@
 # rico-subtree-parsing 
 ### Questions
-### Play around the dataset
+### Play around with the dataset
 Tried to visualize the mapping between the json file and the jpg file (make it js object/ html)
 Tried with a mini part from 1.json...but failed
 Something's wrong with the code
